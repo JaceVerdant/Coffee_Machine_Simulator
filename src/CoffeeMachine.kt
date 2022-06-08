@@ -56,7 +56,7 @@ object CoffeeMachine {
     private fun fill() {
         val msg1 = "Write how many"
         val msg2 = "do you want to add: "
-        val error = "Error! Please enter a positive number"
+        val error = "Error! Please enter a positive number from 0 to 1000(water), 500(milk), 200(coffee), 20(cups)."
 
         water += inputNumber("$msg1 ml of water $msg2", error, 1000)
         milk += inputNumber("$msg1 ml of milk $msg2", error, 500)
