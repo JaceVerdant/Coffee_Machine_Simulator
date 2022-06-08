@@ -21,19 +21,25 @@ At starting the coffee machine has:
 - 550$ of money
 
 
-**Espresso** price: 4$
+**Espresso:** 
 
+- Price: 4$
 - 250 ml of water
 - 16 grams of coffee beans
 
-**Latte** price: 7$
+**Latte:**
 
+- Price: 7$
 - 350 ml of water
 - 75 ml of milk
 - 20 grams of coffee beans
 
-**Cappuccino** price: 6$
+**Cappuccino:**
 
+- Price: 6$
 - 200 ml of water
 - 100 ml of milk
 - 12 grams of coffee beans
+
+
+The original project is [here](https://hyperskill.org).
