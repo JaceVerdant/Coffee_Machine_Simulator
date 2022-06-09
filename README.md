@@ -42,4 +42,4 @@ At starting the coffee machine has:
 - 12 grams of coffee beans
 
 
-The original project is [here](https://hyperskill.org).
+[The original project](https://hyperskill.org).
