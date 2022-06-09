@@ -39,10 +39,10 @@ object CoffeeMachine {
     private fun makeCoffee(coffee: Coffee) {
         val notEnough = "Sorry, not enough"
 
-        if (water < coffee.water) println("$notEnough water!")
-        else if (milk < coffee.milk) println("$notEnough milk!")
-        else if (beans < coffee.grams) println("$notEnough coffee beans!")
-        else if (cups < 1) println("$notEnough cups!")
+        if (water < coffee.water) println("$notEnough water!\n")
+        else if (milk < coffee.milk) println("$notEnough milk!\n")
+        else if (beans < coffee.grams) println("$notEnough coffee beans!\n")
+        else if (cups < 1) println("$notEnough cups!\n")
         else {
             water -= coffee.water
             milk -= coffee.milk
