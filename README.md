@@ -1,10 +1,10 @@
 # Coffee Machine Simulator
 
 
-## _A simple leaning console application._
+## _A simple learning console application._
 
 
-The simulator's functions:
+The simulator functions:
 
 - Buy a coffee (espresso, latte, cappuccino)
 - Fill a coffee machine (water, milk, cups, beans of coffee)
